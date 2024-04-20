@@ -1,0 +1,9 @@
+{
+  "name": "@devsheke/web",
+  "version": "0.1.0",
+  "author": "devseke <abhi@sheke.tech>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
